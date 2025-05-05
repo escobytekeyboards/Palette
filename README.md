@@ -13,5 +13,6 @@ Palette is a low-profile, fully-programmable macropad with 10-keys and dual enco
 - runs on Windows, Linux or mac OS
 
 # Firmware
-- VIAL
+- VIAL default firmware:
+  [escobytekeyboards_palette_vial.uf2](https://github.com/escobytekeyboards/Palette/blob/main/escobytekeyboards_palette_vial.uf2)
 - QMK
